@@ -1,7 +1,7 @@
-## Oiii! Eu sou a Stephanie
+## Hey! I'm Stephanie
 
-- 🔭 Sou graduanda de Sistemas de Informação - UFSC
-- 🌱 Atualmente estudando ``Typescript`` e ``Angular``
+- 🔭 I'm an Information Systems undergraduate at UFSC
+- 🌱 Currently studying ``Typescript`` and ``Angular``
 
 <div align="center">
   <a href="https://github.com/steph-cs">
