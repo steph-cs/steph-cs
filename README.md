@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/steph-cs/steph-cs/assets/61119367/4dbc676b-fe18-4e88-b79d-e40d117dbe9d">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/steph-cs/steph-cs/assets/61119367/e1ad121d-9c3c-4bd3-b1ab-978f9c6dbcc1">
 <h1 align="left">Hey! I'm Stephanie Campelo</h1>
 
 - 🔭 I'm an Information Systems undergraduate at UFSC
