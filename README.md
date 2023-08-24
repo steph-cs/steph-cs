@@ -4,13 +4,14 @@
 - 🔭 I'm an Information Systems undergraduate at UFSC
 - 🌱 Currently studying ``Typescript`` and ``Angular``
 
-</hr>
+<br>
 
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=8318fa&color:FFF)](mailto:stecampelo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8318fa&color:FFF)](https://www.linkedin.com/in/stephanie-campelo/)
 
+<br>
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
