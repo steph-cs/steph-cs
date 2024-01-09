@@ -2,7 +2,7 @@
 <h1 align="left">Hey! I'm Stephanie Campelo</h1>
 
 - 🔭 I'm an Information Systems undergraduate at UFSC
-- 🌱 Currently studying ``Typescript`` and ``Angular``
+- 🌱 Currently studying ``Typescript`` and ``React``
 
 <br>
 
