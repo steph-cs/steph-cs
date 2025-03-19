@@ -4,8 +4,8 @@
 Hey! I'm Stephanie, Full Stack Developer.
 Check out my portfolio at <a href="https://stephanie-cs.vercel.app/" style="color: white">https://stephanie-cs.vercel.app/</a>
 
-- 🔭 I'm an Information Systems undergraduate at UFSC
-- 🌱 Currently studying ``Typescript`` and ``React``
+- 🎓 I have a degree in Information Systems from UFSC
+- 🌱 Currently studying ``ReactNative``
 
 <h3 align="left">Connect with me</h3>
 
