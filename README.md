@@ -1,4 +1,5 @@
-<img align="center" alt="banner" width='100%' src="https://github.com/user-attachments/assets/a828b033-a976-4ca0-972d-439aa8813917">
+<img align="center" alt="banner" width='100%' src="https://github.com/user-attachments/assets/1499ab57-1869-47fc-9956-85e451e672a5">
+
 <br>
 <br>
 Hey! I'm Stephanie, Full Stack Developer.
